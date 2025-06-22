@@ -16,7 +16,7 @@ Northwind Traders recorded a total revenue of $1.27M, showing a 1.47% Month-over
 *	Shipping: Shipper ID, Company Name
 *	Dates: Calendar Date, Year, Quarter, Month, Week
 *	Categories: Product Category Name, Description
-The model was structured using a Star Schema for optimized performance and intuitive relationships.
+    * The model was structured using a Star Schema for optimized performance and intuitive relationships.
 ## Research Questions and Methodology
 ### Big Questions:
 *	What are the sales trends over time?
@@ -34,28 +34,28 @@ The model was structured using a Star Schema for optimized performance and intui
        *	Avg Order Value
        *	Delay Rates
 
- 3. KEY INSIGHTS, FINDING & RECOMMENDATIONS
- SALES PERFORMANCE
+## KEY INSIGHTS, FINDING & RECOMMENDATIONS
+ ### SALES PERFORMANCE
 The dashboard presents a comprehensive overview of Northwind Traders' sales metrics. Key performance indicators (KPIs) include Total Revenue, Gross Revenue, Total Orders, and Average Order Value, all tracked with Month-over-Month (MoM) comparisons.
-•	Total Revenue: $1.27M (▲1.47%)
-•	Gross Revenue: $1.35M (▲8.58%)
-•	Total Orders: 830 (▲1.72%)
-•	Average Order Value: 1525 (▼0.24%)
-A line chart shows revenue trends across months, with a noticeable dip mid-year (May-June) followed by a gradual recovery.
+*	Total Revenue: $1.27M (▲1.47%)
+*	Gross Revenue: $1.35M (▲8.58%)
+*	Total Orders: 830 (▲1.72%)
+*	Average Order Value: 1525 (▼0.24%)
+    * A line chart shows revenue trends across months, with a noticeable dip mid-year (May-June) followed by a gradual recovery.
 
-CUSTOMER BEHAVIOUR
-Northwind Traders serves 91 customers, with an impressive 97% returning customer rate (88 out of 91).
-The average revenue per customer is $13.91K, while the Customer Lifetime Value (CLV) totals $1.27M.
-The Retention Rate showed stability from July to December, while the Churn Rate declined.
-Top revenue is driven by Loyal Customers ($598K) and Champions ($421K).
-Horst Kloss leads with $110K in revenue from 28 orders, boasting the highest AOV ($3938).
+## CUSTOMER BEHAVIOUR
+* Northwind Traders serves 91 customers, with an impressive 97% returning customer rate (88 out of 91).
+* The average revenue per customer is $13.91K, while the Customer Lifetime Value (CLV) totals $1.27M.
+* The Retention Rate showed stability from July to December, while the Churn Rate declined.
+* Top revenue is driven by Loyal Customers ($598K) and Champions ($421K).
+* Horst Kloss leads with $110K in revenue from 28 orders, boasting the highest AOV ($3938).
 
-Strategic Recommendations
-1.	Replicate July-December retention strategies across other months.
-2.	Build stronger relationships with the top 5 revenue customers.
-3.	Introduce tiered rewards for Champions and Loyal Customers.
-4.	Upsell opportunities: Explore product bundling for customers with lower AOV.
-5.	Keep monitoring churn early in the year, as January–June showed higher risk.
+## Strategic Recommendations
+* 1.	Replicate July-December retention strategies across other months.
+* 2.	Build stronger relationships with the top 5 revenue customers.
+* 3.	Introduce tiered rewards for Champions and Loyal Customers.
+* 4.	Upsell opportunities: Explore product bundling for customers with lower AOV.
+* 5.	Keep monitoring churn early in the year, as January–June showed higher risk.
 
 PRODUCT INSIGHTS
 ey Metrics
