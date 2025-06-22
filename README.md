@@ -7,7 +7,7 @@ Northwind Traders recorded a total revenue of $1.27M, showing a 1.47% Month-over
 * Best product: Côte de Blaye ($141K).
 * Leading employee: Margaret Peacock ($232K).
 * Most used shipper: United Package ($533K)
-###	Fact Table:
+### Fact Table:
 *	Sales: Order ID, Customer ID, Product ID, Employee ID, Order Date, Ship Date, Quantity, Unit Price, Total Revenue, etc.
 *	Dimension Tables:
 *	Customers: Company Name, Contact, Country, City, etc.
@@ -51,33 +51,33 @@ The dashboard presents a comprehensive overview of Northwind Traders' sales metr
 * Horst Kloss leads with $110K in revenue from 28 orders, boasting the highest AOV ($3938).
 
 ## Strategic Recommendations
-* 1.	Replicate July-December retention strategies across other months.
-* 2.	Build stronger relationships with the top 5 revenue customers.
-* 3.	Introduce tiered rewards for Champions and Loyal Customers.
-* 4.	Upsell opportunities: Explore product bundling for customers with lower AOV.
-* 5.	Keep monitoring churn early in the year, as January–June showed higher risk.
+1.	Replicate July-December retention strategies across other months.
+2.	Build stronger relationships with the top 5 revenue customers.
+3.	Introduce tiered rewards for Champions and Loyal Customers.
+4.	Upsell opportunities: Explore product bundling for customers with lower AOV.
+5.	Keep monitoring churn early in the year, as January–June showed higher risk.
 
-PRODUCT INSIGHTS
-ey Metrics
-•	Total Product Sold: 4 million units
-•	Best Selling Product: Côte de Blaye ($141.4K in revenue)
-•	Average Revenue Per Product: $16.44K
-•	Discontinued Products: 10.39%
-________________________________________
- Revenue Insights
-•	Top Products by Revenue:
-o	Côte de Blaye leads by a significant margin.
-o	Other strong performers: Thüringer Rostbratwurst, Raclette Courdavault.
-•	Revenue vs. Units Sold:
-o	Scatter plot shows some products with high sales volume but lower revenue, hinting at low unit prices or heavy discounts.
-🔹 Discount Impact
-o	Dairy Products ($8.60K)
-o	Beverages ($8.59K)
-o	Meat & Poultry ($7.37K)
-•	Discounts are heavily affecting profit margins in key categories.
-🔹 Category Summary
-o	Beverages, Dairy Products, and Meat & Poultry lead.
-o	Discrepancies between gross and net revenue indicate areas of discount leakage.
+## PRODUCT INSIGHTS
+Key Metrics
+*	Total Product Sold: 4 million units
+*	Best Selling Product: Côte de Blaye ($141.4K in revenue)
+*	Average Revenue Per Product: $16.44K
+*	Discontinued Products: 10.39%
+  
+ ## Revenue Insights
+*	Top Products by Revenue:
+   * o	Côte de Blaye leads by a significant margin.
+   * o	Other strong performers: Thüringer Rostbratwurst, Raclette Courdavault.
+*	Revenue vs. Units Sold:
+   * o	Scatter plot shows some products with high sales volume but lower revenue, hinting at low unit prices or heavy discounts.
+* Discount Impact
+   * o	Dairy Products ($8.60K)
+   * o	Beverages ($8.59K)
+   * o	Meat & Poultry ($7.37K)
+*	Discounts are heavily affecting profit margins in key categories.
+   * Category Summary
+   * o	Beverages, Dairy Products, and Meat & Poultry lead.
+   * o	Discrepancies between gross and net revenue indicate areas of discount leakage.
 
  Recommendations
 1.	Review pricing and discount policies for top loss categories (Dairy, Beverages).
