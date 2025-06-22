@@ -66,32 +66,32 @@ Key Metrics
   
  ## Revenue Insights
 *	Top Products by Revenue:
-   * o	Côte de Blaye leads by a significant margin.
-   * o	Other strong performers: Thüringer Rostbratwurst, Raclette Courdavault.
+    o	Côte de Blaye leads by a significant margin.
+    o	Other strong performers: Thüringer Rostbratwurst, Raclette Courdavault.
 *	Revenue vs. Units Sold:
-   * o	Scatter plot shows some products with high sales volume but lower revenue, hinting at low unit prices or heavy discounts.
+    o	Scatter plot shows some products with high sales volume but lower revenue, hinting at low unit prices or heavy discounts.
 * Discount Impact
-   * o	Dairy Products ($8.60K)
-   * o	Beverages ($8.59K)
-   * o	Meat & Poultry ($7.37K)
+    o	Dairy Products ($8.60K)
+    o	Beverages ($8.59K)
+    o	Meat & Poultry ($7.37K)
 *	Discounts are heavily affecting profit margins in key categories.
-   * Category Summary
-   * o	Beverages, Dairy Products, and Meat & Poultry lead.
-   * o	Discrepancies between gross and net revenue indicate areas of discount leakage.
+    Category Summary
+    o	Beverages, Dairy Products, and Meat & Poultry lead.
+    o	Discrepancies between gross and net revenue indicate areas of discount leakage.
 
- Recommendations
+## Recommendations
 1.	Review pricing and discount policies for top loss categories (Dairy, Beverages).
 2.	Promote high-revenue products with low discount impact (like Côte de Blaye).
 3.	Drill into discontinued products to understand why they were pulled and if there’s potential for revival.
 4.	Utilize tooltip and drill-through functionality to allow deeper product- and category-level exploration during executive reviews.
 
- Shipping & Delivery
-•	Top Metrics Overview
-•	Total Freight Cost: $64.94K
-•	Average Delivery Time: 8 days
-•	Total Late Shipments: 37
-•	On-Time Delivery Rate: 98.02%
-•	 Insight:
+## Shipping & Delivery
+*	Top Metrics Overview
+*	Total Freight Cost: $64.94K
+*	Average Delivery Time: 8 days
+*	Total Late Shipments: 37
+*	On-Time Delivery Rate: 98.02%
+*	 Insight:
 You're operating at a very high delivery performance rate with only 1.98% of shipments late. This is exceptional in logistics—shows strong operational efficiency.
 Delivery time is relatively consistent across countries, but Ireland stands out as being slower by 2 days. This could be due to distance, customs, or internal processing delays. Worth investigating further.
 United Package generates the highest revenue, suggesting it handles either high-volume or high-value shipments. It might be your primary logistics partner—evaluate their cost-benefit performance closely.
@@ -103,35 +103,35 @@ o	France
 o	Australia
 These countries are your key markets for order volume. Strategically, consider setting up fulfillment centers or improving warehousing near these regions for even faster delivery.
 
- Recommendations
+ ## Recommendations
 1.	Investigate Ireland's delivery delays—see if a new carrier or route can reduce the average.
 2.	Audit United Package's delivery issues despite their high volume. Can performance improve further?
 3.	Leverage Federal Shipping's efficiency more if cost-effective.
 4.	Use volume data to optimize regional warehousing or fulfillment partnerships.
 5.	Maintain the 98% on-time rate—it's a massive trust factor for customer satisfaction and loyalty.
 
-Employee Insights
-🔹 Key Highlights
-•	Number of Employees: 9
-•	Top Employee: Margaret Peacock
-•	Revenue per Employee: $140.64K
-•	Average Order Value (AOV): $1.53K
+## Employee Insights
+#### Key Highlights
+    * Number of Employees: 9
+    * Top Employee: Margaret Peacock
+    *	Revenue per Employee: $140.64K
+    *	Average Order Value (AOV): $1.53K
 
-🔹 Top Performers
-•	Margaret Peacock leads with:
+#### Top Performers
+*	Margaret Peacock leads with:
 o	75 customers
 o	$232.9K in revenue
 o	AOV of $1,493
-•	Janet Leverling and Nancy Davolio follow closely behind with revenues of $202.8K and $192.1K, respectively.
-•	All top 3 employees are based in the USA.
-🔹 Country-Based Insight
-•	USA-based employees dominate the top rankings.
-•	UK-based employees are currently underperforming in comparison, suggesting an area for growth or support.
-🔹 Revenue Trends (Monthly)
-•	April shows the highest spike across multiple employees, notably:
+*	Janet Leverling and Nancy Davolio follow closely behind with revenues of $202.8K and $192.1K, respectively.
+*	All top 3 employees are based in the USA.
+#### Country-Based Insight
+*	USA-based employees dominate the top rankings.
+*	UK-based employees are currently underperforming in comparison, suggesting an area for growth or support.
+* Revenue Trends (Monthly)
+*	April shows the highest spike across multiple employees, notably:
 o	Andrew Fuller: $44.1K
 o	Anne Dodsworth: $100.66K
-•	Some employees, such as Steven Buchanan, show inconsistent monthly performance—potentially due to seasonal demand or account assignments.
+*	Some employees, such as Steven Buchanan, show inconsistent monthly performance—potentially due to seasonal demand or account assignments.
 
  Recommendations
 1.	Reward high performers like Margaret Peacock to retain top talent.
