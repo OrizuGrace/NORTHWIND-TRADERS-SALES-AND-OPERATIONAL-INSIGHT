@@ -11,28 +11,28 @@ Northwind Traders recorded a total revenue of $1.27M, showing a 1.47% Month-over
 *	Sales: Order ID, Customer ID, Product ID, Employee ID, Order Date, Ship Date, Quantity, Unit Price, Total Revenue, etc.
 *	Dimension Tables:
 *	Customers: Company Name, Contact, Country, City, etc.
-o	Products: Product Name, Category, Supplier, Unit Price, Discontinued
-o	Employees: Employee Name, Region, Title
-o	Shipping: Shipper ID, Company Name
-o	Dates: Calendar Date, Year, Quarter, Month, Week
-o	Categories: Product Category Name, Description
- The model was structured using a Star Schema for optimized performance and intuitive relationships.
-2. Research Questions and Methodology
-Big Questions:
-•	What are the sales trends over time?
-•	Who are the top-performing customers, products, and employees?
-•	Where are operational bottlenecks like delayed shipments?
-•	Which products or markets are underperforming?
-•	How can management make data-backed decisions?
- Methodology:
-•	Data was cleaned and modeled in Power Query using proper data types, formatting, and column splitting.
-•	Star Schema modeling was applied in Power BI for clarity and performance.
-•	Drill-throughs and tooltips were used to give dynamic interactivity.
-•	DAX measures were created to calculate KPIs like:
-o	Total Revenue
-o	MoM Growth
-o	Avg Order Value
-o	Delay Rates
+*	Products: Product Name, Category, Supplier, Unit Price, Discontinued
+*	Employees: Employee Name, Region, Title
+*	Shipping: Shipper ID, Company Name
+*	Dates: Calendar Date, Year, Quarter, Month, Week
+*	Categories: Product Category Name, Description
+The model was structured using a Star Schema for optimized performance and intuitive relationships.
+## Research Questions and Methodology
+### Big Questions:
+*	What are the sales trends over time?
+*	Who are the top-performing customers, products, and employees?
+*	Where are operational bottlenecks like delayed shipments?
+*	Which products or markets are underperforming?
+* How can management make data-backed decisions?
+ ### Methodology:
+*	Data was cleaned and modeled in Power Query using proper data types, formatting, and column splitting.
+*	Star Schema modeling was applied in Power BI for clarity and performance.
+*	Drill-throughs and tooltips were used to give dynamic interactivity.
+*	DAX measures were created to calculate KPIs like:
+       *	Total Revenue
+       *	MoM Growth
+       *	Avg Order Value
+       *	Delay Rates
 
  3. KEY INSIGHTS, FINDING & RECOMMENDATIONS
  SALES PERFORMANCE
